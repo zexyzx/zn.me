@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #1e7890; 
+  font-family: Nunito, sans-serif;
+}
+.container {
+  color: white;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container .pp {
+  border-radius: 500%;
+  width: 160px;
+}
+h1 {
+  color: white;
+  font-size: 30px;
+  margin-top: 1%;
+}
+.sosmed a i {
+  color: white;
+  margin-right: 8px; 
+  margin-left: 5px; 
+  font-size: 200%;
+}
