@@ -1,2 +1,2 @@
 # zn.me
-Simple Profile Website
+<h1 text-align="center">Simple Profile Website</h1>
