@@ -1,2 +1,2 @@
 # zn.me
-Gtw
+Simple Profile Website
