@@ -1,1 +1,1 @@
-<h1 align="center">Simple Profile Website</h1>
+<p align="center">Simple Profile Website</p>
